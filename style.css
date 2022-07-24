@@ -20,7 +20,8 @@ body{
     font-family: 'Caveat', cursive;
     color: #a69cac;
     background-image: radial-gradient(#37a1dd 5%, #2896d7 20%, #09669d 60%);
-    height: 100vh;
+    height: 800px;
+    width: 665px;
 }
 
 #bg{
